@@ -52,9 +52,6 @@ typings/
 *.tgz
 
 # dotenv environment variable files
-.env.development
-.env.production
-.env
 
 # gatsby files
 .cache/
@@ -75,3 +72,4 @@ yarn-error.log
 .vscode/
 
 README.md
+config.bat
